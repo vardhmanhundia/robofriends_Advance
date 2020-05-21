@@ -4,6 +4,7 @@
   "private": true,
   "homepage": "https://vardhmanhundia.github.io/robofriends_Advance",
   "dependencies": {
+    "gh-pages": "^2.2.0",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
     "react-redux": "^7.2.0",
